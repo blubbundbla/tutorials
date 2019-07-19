@@ -1,0 +1,12 @@
+# commands used in git
+# to not forget how to...
+
+#create branch
+git checkout -b branch_name
+
+# add files
+git add filename
+git commit -m 'message'
+
+# to push to github
+git push # pushes to master, if not specify name
