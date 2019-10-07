@@ -1,0 +1,4 @@
+#### ADD TO .bashrc
+
+# to see git branch in prompt:
+. ~/.bash_prompt
